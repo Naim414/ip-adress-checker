@@ -1,0 +1,7 @@
+these are things you need to install using "pip install" command 
+you can copy these codes.
+1) pip install requests
+2) pip install pyfiglet
+3) pip install colorama
+4) pip install os
+5) pip install platform
